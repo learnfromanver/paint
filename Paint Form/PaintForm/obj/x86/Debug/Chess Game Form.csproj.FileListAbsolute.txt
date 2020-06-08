@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\bin\Debug\Chess Game Form.exe
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\bin\Debug\Chess Game Form.pdb
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\obj\x86\Debug\Chess_Game_Form.Form1.resources
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\obj\x86\Debug\Chess_Game_Form.Properties.Resources.resources
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\obj\x86\Debug\Chess Game Form.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\obj\x86\Debug\Chess Game Form.exe
+c:\users\user\documents\visual studio 2010\Projects\Chess Game Form\Chess Game Form\obj\x86\Debug\Chess Game Form.pdb
+C:\Users\User\Documents\Visual Studio 2010\Projects\Paint Form\Chess Game Form\obj\x86\Debug\Chess Game Form.exe
+C:\Users\User\Documents\Visual Studio 2010\Projects\Paint Form\Chess Game Form\obj\x86\Debug\Chess Game Form.pdb
